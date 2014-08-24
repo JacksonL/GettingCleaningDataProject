@@ -6,7 +6,7 @@ Variables
 
 Experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying). The first two columns are the variables:
 
-subject
+subject  
 activity
 
 'subject' has a value from 1 - 30 representing one of the 30 volunteers described above. 'activity' has one of 6 values described above, representing the activity being performed. 
